@@ -1,2 +1,6 @@
 # Profiles
-Where I put all links from my study badges, certificates...
+Where I put all the links from my study badges, certificates...
+
+## Chocolatey
+
+https://community.chocolatey.org/profiles/andyhuynh
