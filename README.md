@@ -1,13 +1,13 @@
-# Andy's Portfolio 
+# 🗺️ Andy's Portfolio 
 Where I put all the links from my study badges, certificates...
 
-## Table of Contents:
+## 📚 Table of Contents:
 - [Cloud Services](#cloud-service)
 - [Programing Languages](#)
 - [Project Management](#)
 - [Other Archivements](#other-archivements-badges)
 
-# Cloud Services
+#🌩️ Cloud Services
 
 | Topic      | Completed date      | Description       |
 |-----------------|----------------|----------------|
