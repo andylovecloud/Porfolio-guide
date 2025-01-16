@@ -1,5 +1,5 @@
 # 🗺️ Andy's Portfolio 
-Where I put all the links from my study badges, certificates...
+Where I put all the links from my projects, what I've been studying, badges, certificates...
 
 ## 📚 Table of Contents:
 - [Cloud Services](#cloud-service)
