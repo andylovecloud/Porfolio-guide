@@ -20,9 +20,10 @@ Where I put all the links from my projects, what I've been studying, badges, cer
 | Python Project link | 25-Oct-2025  | Java|  Everything related to  Python projects |
 
 # 🙆🏻‍♂️ Project Management
-| Topic      | Completed date      | Description       |
-|-----------------|----------------|----------------|
-| Friend ship| 25-Oct-2025  | I received the certificate from AWS Academy about Cloud Foundations completed training. The digital badge can be found [**here**](https://www.credly.com/badges/195b727b-9fef-441f-aa5a-ed1fc72356a6/print)  |
+| Topic      | Completed date  | Description   |
+|------------|----------------|----------------|
+| HAMK International friendship programs 2024| 30-Apr-2024  | As anual event at HAMK University, international friendship programs where local students or family have chance to connect with international students, who having the same interested in discussing work and career related topic, I supported to build the marketing process, planned, build survey tools and data analyze optimization for organizing team  |
+| Sampola | 25-10-2024  | Everything related to Sampola project as Scrum Master position |
 
 # 💁🏻‍♂️ Other archivements badges
 - [**Open Badge passport]**(https://openbadgepassport.com/app/profile/218294)
