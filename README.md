@@ -14,10 +14,10 @@ Where I put all the links from my projects, what I've been studying, badges, cer
 | AWS Cloud foundation badge | 25-Oct-2025  | I received the certificate from AWS Academy about Cloud Foundations completed training. The digital badge can be found [**here**](https://www.credly.com/badges/195b727b-9fef-441f-aa5a-ed1fc72356a6/print)  |
 
 # 👨🏻‍💻 Programing Languages
-| Project      | Completed date  | Tools      | Description       |
-|-----------------|----------------|----------------|
-| Java Project link | 25-Oct-2025  | Java| Everything related to  Java projects |
-| Python Project link | 25-Oct-2025  | Java|  Everything related to  Python projects |
+| Project         | Completed date | Tools          | Description    |
+|-----------------|----------------|----------------|----------------|
+| Java Project link | 25-Oct-2025  | Java           | Everything related to  Java projects |
+| Python Project link | 25-Oct-2025  | Java         |  Everything related to  Python projects |
 
 # 🙆🏻‍♂️ Project Management
 | Topic      | Completed date  | Description   |
