@@ -1,5 +1,5 @@
 # 🗺️ Andy's Portfolio 
-Where I put all the links from my projects, what I've been studying, badges, certificates...
+Where I put all the links from [my previous working experience](https://github.com/andylovecloud/Working-history-and-archivements), my projects, what I've been studying, badges, certificates...
 
 ## 📚 Table of Contents:
 - [Cloud Services](#%EF%B8%8F-cloud-services)
@@ -26,9 +26,6 @@ Where I put all the links from my projects, what I've been studying, badges, cer
 | Sampola | 25-10-2024  | Everything related to Sampola project as Scrum Master position |
 
 # 💁🏻‍♂️ Other archivements and badges
-### Archivements at work
-| Company      | Archivement date  | Description   |
-| Bosch | 17-11-2021  | Project Management Awards 2021 in two categories: "People choice Award" for most favourite project and "Best Servce Management & Support project" |
 
 ### Archivements at study
 - [**Open Badge passport**](https://openbadgepassport.com/app/profile/218294)
