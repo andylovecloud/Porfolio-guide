@@ -26,7 +26,7 @@ Where I put all the links from my projects, what I've been studying, badges, cer
 | Sampola | 25-10-2024  | Everything related to Sampola project as Scrum Master position |
 
 # 💁🏻‍♂️ Other archivements badges
-- [**Open Badge passport]**(https://openbadgepassport.com/app/profile/218294)
+- [**Open Badge passport**](https://openbadgepassport.com/app/profile/218294)
 - [**Chocolatey**](https://community.chocolatey.org/profiles/andyhuynh)
 - **HackTheBox**
   - [Academician: Introduction to Academy module completed](https://academy.hackthebox.com/achievement/badge/30b81967-806e-11ee-b5a6-bea50ffe6cb4)_
