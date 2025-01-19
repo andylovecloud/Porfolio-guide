@@ -14,12 +14,12 @@ Where I put all the links from [my previous working experience](https://github.c
 | AWS Cloud foundation badge | 25-Oct-2025  | I received the certificate from AWS Academy about Cloud Foundations completed training. The digital badge can be found [**here**](https://www.credly.com/badges/195b727b-9fef-441f-aa5a-ed1fc72356a6/print)  |
 
 # 👨🏻‍💻 Programing Languages
-| Project         | Completed date                                                                               | Tools              | Description    |
-|-----------------|----------------                                                                              |----------------    |----------------|
-| [Java Project link](https://github.com/andylovecloud/Java)     | 25-Oct-2025      | Java                       | Everything related to  Java projects    |
-| [Python Project link](https://github.com/andylovecloud/Python) | 25-Oct-2025      | Python                     | Everything related to  Python projects  |
-| [Web development]([https://github.com/andylovecloud/Python](https://github.com/andylovecloud/Web-development)) | 2024      | PHP,WordPress,MySQL | Everything related to Web development projects |
-| [Data analysis](https://github.com/andylovecloud/Data_Analysis)|                                                 2024      | Python              | Everything related to Data Analysis projects |
+| Project         | Completed date                                                      | Tools              | Description    |
+|-----------------|----------------                                                     |----------------    |----------------|
+| [Java Project link](https://github.com/andylovecloud/Java)         | 25-Oct-2025      | Java               | Everything related to  Java projects    |
+| [Python Project link](https://github.com/andylovecloud/Python)     | 25-Oct-2025      | Python             | Everything related to  Python projects  |
+| [Web development](https://github.com/andylovecloud/WebDevelopment) | 2024             | PHP,WordPress,MySQL| Everything related to Web development projects |
+| [Data analysis](https://github.com/andylovecloud/Data_Analysis)|           2024       | Python             | Everything related to Data Analysis projects |
 
 
 # 🙆🏻‍♂️ Project Management
