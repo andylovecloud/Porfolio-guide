@@ -28,8 +28,9 @@ Where I put all the links from [my previous working experience](https://github.c
 # 🙆🏻‍♂️ Project Management
 | Topic      | Completed date  | Description   |
 |------------|----------------|----------------|
-| HAMK International friendship programs 2024| 30-Apr-2024  | As anual event at HAMK University, international friendship programs where local students or family have chance to connect with international students, who having the same interested in discussing work and career related topic, I supported to build the marketing process, planned, build survey tools and data analyze optimization for organizing team  |
+| [HAMK International friendship programs 2024](https://github.com/andylovecloud/Working-history-and-archivements?tab=readme-ov-file#-accomplishments-1)| 30-Apr-2024  | As anual event at HAMK University, international friendship programs where local students or family have chance to connect with international students, who having the same interested in discussing work and career related topic, I supported to build the marketing process, planned, build survey tools and data analyze optimization for organizing team  |
 | Sampola | 25-10-2024  | Everything related to Sampola project as Scrum Master position |
+| [Best Customer Administration Tools Management](https://github.com/andylovecloud/Working-history-and-archivements?tab=readme-ov-file#-accomplishments-2) | 2021  | I receievd 02 awards for best project management in 2021 at BOSCH company. I collaborated with team to opptimize the Operation process and apply CI/CD for existing project, customers who using the tools were happy and voted for it. | 
 
 # 💁🏻‍♂️ Other archivements and badges
 
