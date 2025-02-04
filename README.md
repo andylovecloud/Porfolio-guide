@@ -14,6 +14,7 @@ Where I put all the links from [my previous working experience](https://github.c
 | [**AWS Projects**](https://github.com/andylovecloud/AWS_Cloud_Computing)  | Place where I'm exploring AWS technologies in hand-on projects  |
 |  | I received the certificate from AWS Academy about Cloud Foundations completed training. The digital badge can be found [**here**](https://www.credly.com/badges/195b727b-9fef-441f-aa5a-ed1fc72356a6/print)  |
 | [**AZURE Projects**](https://github.com/andylovecloud/Azure_Cloud)  | Place where I'm exploring AZURE technologies in hand-on projects  |
+| [**Other Cloud-based Projects**](https://github.com/andylovecloud/Cloud-based-projects)  | Place where I'm exploring Other Cloud-based hand-on projects  |
 
 
 # 👨🏻‍💻 Programing Languages
