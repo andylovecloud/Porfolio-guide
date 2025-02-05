@@ -5,7 +5,7 @@ Where I put all the links from [my previous working experience](https://github.c
 - [Cloud Services](#%EF%B8%8F-cloud-services)
 - [Programing Languages](#-programing-languages)
 - [Project Management](#%EF%B8%8F-project-management)
-- [Other Archivements](#%EF%B8%8F-other-archivements-badges)
+- [Other Achivements](#%EF%B8%8F-other-achivements-badges)
 
 # 🌩️ Cloud Services
 
@@ -35,7 +35,7 @@ Where I put all the links from [my previous working experience](https://github.c
 
 # 💁🏻‍♂️ Other archivements and badges
 
-### Archivements at study
+### Achivements at study
 - [**Open Badge passport**](https://openbadgepassport.com/app/profile/218294)
 - [**Chocolatey**](https://community.chocolatey.org/profiles/andyhuynh)
 - **HackTheBox**
